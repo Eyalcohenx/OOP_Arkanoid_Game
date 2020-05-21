@@ -1,5 +1,3 @@
-# 207947086
-# coheney9
 
 compile: bin
 	find src/oop/ass7game -name "*.java" > sources.txt
